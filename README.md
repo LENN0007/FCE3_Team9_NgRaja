@@ -49,9 +49,13 @@ This aids team managers in their decision-making processes regarding the players
 
 ## Individual contributions
 Finding the dataset and problem statement: Muthu
+
 Cleaning and EDA: Lennard & Muthu
+
 Machine learning models: Lennard
+
 Conclusion: Lennard & Muthu
+
 Notebook: Muthu
 
 ## References
