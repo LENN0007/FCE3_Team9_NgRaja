@@ -28,6 +28,9 @@ Target: Tackles (Tkl), Clearances (Clr), Interceptions (Int)
 Predictors: Blocks of shots and passes (BlkSh, BlkPass), TklDef3rd, TklMid3rd (Tackles in defensive and midfield areas), Passing accuracy, especially for long balls (PasTotCmp%, PasLonCmp%), Aerial duels won (AerWon%, AerWon)
 
 ## 2. Exploration
+Used Correlation Matrix and Pairplots to decide which variables should be used as targets for modeling for each position based on its relationships with other variables
+
+Looked at the data spread for each of these target variables, to determine the machine learning models that can be used by looking at histograms and box-and-whisker plots of these variables
 
 ## 3. Machine learning
 We used 3 machine learning models: Linear regression, Random forest, and Gradient boosting.
