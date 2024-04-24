@@ -60,5 +60,7 @@ Notebook: Muthu
 
 ## References
 - https://www.kaggle.com/datasets/vivovinco/20212022-football-player-stats
+- https://www.pff.com/news/premier-league-decoding-passing-styles-a-clustering-analysis-of-central-midfielders
+- https://www.roadtrips.com/blog/the-most-watched-sporting-events-in-the-world/
 - https://www.ibm.com/topics/random-forest
 - https://www.datacamp.com/tutorial/guide-to-the-gradient-boosting-algorithm
